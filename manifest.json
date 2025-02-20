@@ -3,9 +3,6 @@
     "version": "1.0.0",
     "description": "Save a roll set",
     "author": "Ziplay",
-    "main": "index.js",
-    "scripts": {
-      "start": "main.js"
-    }
+    "main": "index.js"
   }
   
