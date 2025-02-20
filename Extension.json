@@ -1,0 +1,9 @@
+{
+    "id": "custom-dice-roller",
+    "name": "Custom Dice Roller",
+    "version": "1.0.0",
+    "description": "Save your roll set for faster throws",
+    "authors": ["Ziplay"],
+    "entry": "index.js"
+  }
+  
